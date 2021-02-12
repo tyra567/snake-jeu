@@ -1,8 +1,8 @@
 {
-    "token": "ODAxMTY4NzM4MTgyMzY1MjM2.YAcwiA.vj8isrz888X-9hSZsAHhP4ukfKo",
-    "prefix": "=",
+    "token": "",
+    "prefix": "",
     "greeting": {
-        "channel": "725674867453722654",
-        "role": "698508967642660935"
+        "channel": "",
+        "role": ""
     }
 }
